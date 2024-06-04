@@ -1,0 +1,3 @@
+[submodule "aireal-api"]
+	path = aireal-api
+	url = https://github.com/FrhnSpwli/aireal-api.git
